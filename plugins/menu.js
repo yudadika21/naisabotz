@@ -50,9 +50,9 @@ Hi %name!,I'm %me
 │Donasi Kak ketik .donasi Yah:)
 ╰──────────────
 
- ╭────ꕥ *Inpo🗿* ꕥ────✾
- │ 1. Masih Pakek Punya Nurutomo
- │ 2. Deploy ke heroku:v
+ ╭────ꕥ *🗿* ꕥ────✾
+ │ 1. Yuda Meki
+ │ 2. Yuda Xwer
  │
  │
  ╰──────────────
@@ -61,8 +61,8 @@ Hi %name!,I'm %me
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*Yuda Xwer*
-'```Yuda Xwer```'
+*%Yuda@^%version*
+${'```Yuda Xwee```'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
