@@ -50,10 +50,10 @@ Hi %name!,I'm %me
 │Donasi Kak ketik .donasi Yah:)
 ╰──────────────
 
- ╭────ꕥ *GROUP* ꕥ────✾
- │ 1. https://chat.whatsapp.com/Dw76Lz6zXshCXacDPis32n
- │ 2. https://chat.whatsapp.com/E6IbVUBmaGY8IFoMrAzloO
- │Ramein!!!,200 Member Gw Bagi2 Limit 10000/10K
+ ╭────ꕥ *Inpo🗿* ꕥ────✾
+ │ 1. Masih Pakek Punya Nurutomo
+ │ 2. Deploy ke heroku:v
+ │
  │
  ╰──────────────
 %readmore`.trimStart(),
@@ -61,8 +61,8 @@ Hi %name!,I'm %me
   body: '│ • %cmd %islimit %isPremium',
   footer: '╰────\n',
   after: `
-*%npmname@^%version*
-${'```%npmdesc```'}
+*Yuda Xwer*
+'```Yuda Xwer```'
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
